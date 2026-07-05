@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+}
+
+nav{
+    background:#6b1d2c;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    padding:8px 15px;
+}
+
+nav a:hover{
+    background:orange;
+    border-radius:5px;
+}

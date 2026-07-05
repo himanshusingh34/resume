@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+    padding:30px;
+}
+
+button{
+    margin:10px;
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+.solid{
+    background:brown;
+    color:white;
+    border:none;
+}
+
+.solid:hover{
+    background:black;
+}
+
+.outline{
+    background:white;
+    border:2px solid brown;
+}
+
+.outline:hover{
+    background:brown;
+    color:white;
+}
+
+.pill{
+    background:orange;
+    border:none;
+    border-radius:20px;
+}
+
+.pill:hover{
+    background:gold;
+}
